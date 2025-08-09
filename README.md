@@ -6,8 +6,7 @@ Uma aplicação simples e interativa que permite ao usuário gerar a tabuada de 
 
 ![Preview da Tabuada](https://via.placeholder.com/600x300.png?text=Tabuada+Interativa)
 
-🔗 [Veja a tabuada funcionando aqui](https://seu-usuario.github.io/tabuada-interativa/)
-
+🔗 [Veja a tabuada funcionando aqui](https://jheff-conceicao.github.io/Tabuada/)
 
 ## 🚀 Funcionalidades
 
