@@ -2,9 +2,11 @@
 
 Uma aplicação simples e interativa que permite ao usuário gerar a tabuada de qualquer número. Desenvolvida com HTML, CSS e JavaScript puro, ideal para fins educativos ou como projeto introdutório para iniciantes em programação web.
 
+
 ## 📸 Preview
 
-![Preview da Tabuada](https://via.placeholder.com/600x300.png?text=Tabuada+Interativa)
+![Tabuada Interativa](./assets/print.png)
+
 
 🔗 [Veja a tabuada funcionando aqui](https://jheff-conceicao.github.io/Tabuada/)
 
