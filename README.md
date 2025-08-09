@@ -29,7 +29,9 @@ Uma aplicação simples e interativa que permite ao usuário gerar a tabuada de 
    ```bash
    [https://github.com/Jheff-conceicao/Tabuada.git]
 
-   🙋‍♂️ Autor
+   
+
+🙋‍♂️ Autor 
 Feito com 💙 por Jeferson da Conceição
 
 📄 Licença
