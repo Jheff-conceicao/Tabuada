@@ -27,4 +27,10 @@ Uma aplicação simples e interativa que permite ao usuário gerar a tabuada de 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/tabuada-interativa.git
+   [https://github.com/Jheff-conceicao/Tabuada.git]
+
+   🙋‍♂️ Autor
+Feito com 💙 por Jeferson da Conceição
+
+📄 Licença
+Este projeto está sob a licença MIT.
